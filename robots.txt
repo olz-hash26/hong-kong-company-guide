@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olz-hash26.github.io/hong-kong-company-guide/sitemap.xml
